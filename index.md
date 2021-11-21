@@ -53,13 +53,14 @@
       <div class="card mb-3">
   <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-    <h5 class="card-title">reach app</h5>
+    <h5 class="card-title">Reach todo application</h5>
     <p class="card-text">.....</p>
     <a href="https://github.com/fewtha/fewtha.github.io/tree/main/todo-list" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
   </div>
+
 
    <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
