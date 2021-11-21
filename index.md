@@ -45,18 +45,13 @@
       </div>
     </div>
   </div>
-  <div class="row">
-    <div class="col-sm-10 col-md-6 col-lg-12">
-      <div class="card mb-3">
+  
   <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">Final Project</h5>
     <p class="card-text">.....</p>
     <a href="#" class="btn btn-primary">Go watch</a>
         </div>
-      </div>
-    </div>
-  </div>
-
+ 
 </body>
 </html>
