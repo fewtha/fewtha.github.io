@@ -68,7 +68,7 @@
         <div class="card-body">
     <h5 class="card-title">Node js API</h5>
     <p class="card-text">.....</p>
-    <a href="https://github.com/fewtha/fewtha.github.io/tree/main/NodeJS-CRUD-api" class="btn btn-primary">Go watch</a>
+    <a href="https://github.com/fewtha/Node-js-API" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
