@@ -42,7 +42,7 @@
         <div class="card-body">
     <h5 class="card-title">Todo Application</h5>
     <p class="card-text">.....</p>
-    <a href="https://github.com/fewtha/Reacttodo" class="btn btn-primary">Go watch</a>
+    <a href="todolist\index.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
@@ -55,7 +55,7 @@
         <div class="card-body">
     <h5 class="card-title">Reach todo application</h5>
     <p class="card-text">.....</p>
-    <a href="https://github.com/fewtha/fewtha.github.io/tree/main/todo-list" class="btn btn-primary">Go watch</a>
+    <a href="https://github.com/fewtha/Reacttodo" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
