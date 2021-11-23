@@ -12,7 +12,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img  src="https://st.depositphotos.com/1000128/2690/i/950/depositphotos_26901455-stock-photo-3d-logo.jpg" class="card-img-top" alt="...">
+  <img  src="Image\Capture.PNG" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
     <p class="card-text">.....</p>
@@ -25,7 +25,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
+  <img src="https://st.depositphotos.com/1000128/2690/i/950/depositphotos_26901455-stock-photo-3d-logo.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">3D Training</h5>
     <p class="card-text">.....</p>
