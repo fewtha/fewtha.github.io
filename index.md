@@ -12,7 +12,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img  src="Image\pf.jpg" class="card-img-top" alt="...">
+  <img  src="https://scontent.fbkk22-4.fna.fbcdn.net/v/t1.6435-9/158125519_1621263451405114_2227937322578070332_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFgjeTVk6BzO_nU1mGg1y-8_QLzec3bknb9AvN5zduSdvPTw7PrCVesr1qvenzjuQK_X9clJJT7vbzxtAwY1B-9&_nc_ohc=PRBtBk_un7QAX_erINq&_nc_ht=scontent.fbkk22-4.fna&oh=03a37472df6cc9a78d986e55436858bf&oe=61C091C2" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
     <p class="card-text">.....</p>
@@ -51,7 +51,7 @@
    <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nRLyWy0y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/buz4t2ckimsj48zieyja.png" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">Reach todo application</h5>
     <p class="card-text">.....</p>
