@@ -12,7 +12,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img  src="Image\Capture.PNG" class="card-img-top" alt="...">
+  <img  src="Image\pf.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
     <p class="card-text">.....</p>
