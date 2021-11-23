@@ -12,7 +12,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img  src="https://scontent.fbkk22-4.fna.fbcdn.net/v/t1.6435-9/158125519_1621263451405114_2227937322578070332_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFgjeTVk6BzO_nU1mGg1y-8_QLzec3bknb9AvN5zduSdvPTw7PrCVesr1qvenzjuQK_X9clJJT7vbzxtAwY1B-9&_nc_ohc=PRBtBk_un7QAX_erINq&_nc_ht=scontent.fbkk22-4.fna&oh=03a37472df6cc9a78d986e55436858bf&oe=61C091C2" class="card-img-top" alt="...">
+  <img  src="https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.6435-9/87389695_1317951565069639_7067549924597956608_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFBzphXHE6ZDa6Amgde27ZZ0MvZvDgaB0XQy9m8OBoHRTJpdbgEK17KNtZK7TYG8Frn8KFMqA5A7_i6nBWWAOJx&_nc_ohc=cjbsDISAd4UAX9sgDvo&_nc_ht=scontent.fbkk22-2.fna&oh=09f49161a6e8c36c4d684a0e548093a3&oe=61C3B96F" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
     <p class="card-text">.....</p>
