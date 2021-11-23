@@ -12,7 +12,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img width="400" height="400" src="https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.6435-9/87389695_1317951565069639_7067549924597956608_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFBzphXHE6ZDa6Amgde27ZZ0MvZvDgaB0XQy9m8OBoHRTJpdbgEK17KNtZK7TYG8Frn8KFMqA5A7_i6nBWWAOJx&_nc_ohc=cjbsDISAd4UAX9sgDvo&_nc_ht=scontent.fbkk22-2.fna&oh=09f49161a6e8c36c4d684a0e548093a3&oe=61C3B96F" class="card-img-top" alt="...">
+  <img  src="https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.6435-9/87389695_1317951565069639_7067549924597956608_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFBzphXHE6ZDa6Amgde27ZZ0MvZvDgaB0XQy9m8OBoHRTJpdbgEK17KNtZK7TYG8Frn8KFMqA5A7_i6nBWWAOJx&_nc_ohc=cjbsDISAd4UAX9sgDvo&_nc_ht=scontent.fbkk22-2.fna&oh=09f49161a6e8c36c4d684a0e548093a3&oe=61C3B96F" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
     <p class="card-text">.....</p>
@@ -25,7 +25,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img width="400" height="400" src="https://st.depositphotos.com/1000128/2690/i/950/depositphotos_26901455-stock-photo-3d-logo.jpg" class="card-img-top" alt="..." width="130" >
+  <img src="https://st.depositphotos.com/1000128/2690/i/950/depositphotos_26901455-stock-photo-3d-logo.jpg" class="card-img-top" alt="..." width="130" >
         <div class="card-body">
     <h5 class="card-title">3D Training</h5>
     <p class="card-text">.....</p>
